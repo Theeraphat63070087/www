@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Hello World</title>
+        <title>IT Kmitl</title>
     </head>
     <body>
         <h1>My First Heading</h1>
