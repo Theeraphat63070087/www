@@ -3,7 +3,7 @@
         <title>IT Kmitl</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
+        <h1>IT Kmitl</h1>
         <p>My First Paragraph</p>
         <img src="cat.jpg">
         <br>
